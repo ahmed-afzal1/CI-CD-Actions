@@ -17,4 +17,4 @@ jobs:
         server: ftp.gtmarketio.com
         username: test@gtmarketio.com
         password: lRBHxw%Dk}$e
-        server-dir: /public_html/test/
+        server-dir: /
